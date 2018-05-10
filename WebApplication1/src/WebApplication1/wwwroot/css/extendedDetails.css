@@ -1,0 +1,152 @@
+.extendedLoungeDetails{
+	background-color: #C0EBF1;
+	border: solid 1px black;
+}
+.detailsDiv{
+	float: left;
+	padding-left: 5px;
+}
+.facilitiesDiv{
+	margin-top: 45px;
+}
+.header{
+	background-color: #7AA9A3;
+	border: solid 1px black;
+	text-indent: bold;
+	padding-top: 6px;
+	height: 30px;
+}
+.subDivision{
+	padding-top: 5px;
+}
+.countDiv {
+	text-align: right;
+}
+.buttonsDiv {
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.center{
+	text-align: center;
+}
+.detailsDiv  ul li.active {
+	background-color: #E0E0E0;
+	border: solid 0.5px black;
+	border-top-left-radius:0.8em;
+	border-top-right-radius:0.8em;
+}
+.actionButton{
+	border: solid 1px black;
+	background-color: #FBFFFD;
+	height: 30px;
+	cursor: pointer;
+}
+.span-24 {
+	width: 948px;
+	margin-right: 0;
+}
+.detailsDiv ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0px;
+	overflow: hidden;
+}
+.detailsDiv  ul li {
+	float: left;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 8px 10px;
+	border: solid 0.5px black;
+	text-decoration: none;
+	background-color: #FFFEFD;
+	border-top-left-radius:0.8em;
+	border-top-right-radius:0.8em;
+}
+.detailsDiv  ul li:hover:not(.active) {
+	background-color: #E0E0E0;
+	cursor: pointer;
+}
+.detailsDiv textarea {
+	height: 400px;
+	width: 600px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace !important;
+}
+#location{
+	line-height: inherit!important;
+}
+#openingHours{
+	line-height: inherit!important;
+}
+#conditions{
+	line-height: inherit!important;
+}
+#additional{
+	line-height: inherit!important;
+}
+#selectCardholders{
+	line-height: inherit!important;
+}
+.errorMessage{
+	background-color: #FF0000;
+	font-size: 15px;
+}
+.defaultOfferDiv{
+	height: 243px;
+	text-align: center;
+	margin-top: 175px;
+	margin-left: 265px;
+}
+.addNewOfferButton{
+	padding: 19px;
+	border: solid 1px black;
+	background-color: #FBFFFD;
+	cursor: pointer;
+}
+.loungeOfferDescription {
+	height: 90px !important;
+	width: 400px !important;
+	border: solid 1px black !important;
+}
+.addEditOfferDetailsDiv{
+	height: 520px !important;
+}
+.loungeOffersDiv{
+	height: 418px;
+}
+.offersHeader{
+	text-align: center;
+	margin-top: 5px;
+}
+.offerDetailsDiv{
+	height: 440px;
+	margin-left: 10px;
+	border: solid 1px black;
+	background-color: white;
+	padding: 20px;
+}
+.addEditOfferDetailsButton{
+	margin-top: 10px;
+	float: right;
+	margin-right: 10px;
+}
+.offerDetailsLabel{
+	font-weight: bold;
+}
+.offerDetailsInput{
+	width: 408px;
+	border: solid 1px black;
+}
+.offersTable th{
+	text-align: center;
+	padding: 10px;
+	background-color: #b7bcbc;
+}
+.offersTable td{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.mandatoryFields{
+	color:red
+}

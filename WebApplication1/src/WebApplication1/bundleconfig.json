@@ -1,0 +1,9 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/css/all.min.css",
+    "inputFiles": [
+      "wwwroot/css/extendedDetails.css",
+      "wwwroot/bootstrap"
+    ]
+  }
+]

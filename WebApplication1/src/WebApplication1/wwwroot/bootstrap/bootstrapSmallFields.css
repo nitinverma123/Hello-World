@@ -1,0 +1,43 @@
+body {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+label, input, button, select, textarea {
+    font-size: 12px;
+    line-height: 12px;
+}
+
+.form-horizontal .control-group {
+    margin-bottom: 5px;
+}
+
+select, textarea, input[type="text"], input[type="password"] {
+    font-size: 12px;
+    height: 18px;
+    line-height: 18px;
+    padding: 2px 2px;
+}
+
+select {
+	height: 21px;
+	width: auto;
+}
+
+.form-actions {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.cursor{
+	cursor: pointer;
+}
+
+.shiftaddress {
+	line-height: 12px;
+}
+
+hr {
+	margin: 5px 0px;
+}

@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+
+    <environment  include="Development">
+
+    </environment>
+</head>
+<body>
+    <h1>Hello World</h1>
+    @RenderBody();
+    <input asp-for="Name" />
+    <input asp-for="Id" />
+
+    
+</body>
+
+</html>

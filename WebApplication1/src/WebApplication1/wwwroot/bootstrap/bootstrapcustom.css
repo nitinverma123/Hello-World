@@ -1,0 +1,133 @@
+.containerbg {
+	background-color:#bedede;
+}
+.headerbg {
+	background-color:#5fafaf;
+}
+.headerbg a{
+	color:#ffffff;
+}
+.control-label{
+	font-weight: bold;
+}
+.box-border {
+	border: 1px solid #5fafaf;
+}
+.padding5 {
+	padding: 5px;
+}
+.margintop5 {
+	margin-top: 5px;
+}
+.clearboth {
+	clear: both;
+}
+.input-xlarge {
+	font-size: 20px !important;
+	height: 35px !important;
+}
+.radio {
+	border: 0px; width: 30px; height: 25px;
+}
+.select-multiple{
+	font-size: 15px;
+  	height: auto;
+}
+.hidden_item {
+	color: #666;
+}
+.form-horizontal .control-label-large {
+  float: left;
+  width: 300px;
+  padding: 5px 10px 0 0;
+  text-align: right;
+  font-weight: bold;
+}
+.margin10 {
+	margin: 10px;
+}
+.form-control-static {
+	margin-top: 5px;
+}
+.listingheader td{
+	background-color: #6FBFBF;
+	font-weight: bold; border-bottom: 1px solid #B0D0D0;
+	border-right: 1px solid #B0D0D0;border-top: 1px solid #B0D0D0;
+}
+.formsection {
+	width:300px;
+}
+.formsection td {
+	height: 15px;
+}
+.control-group label {
+	color: #000000;
+}
+.alert-nobg {
+	background-color:transparent;
+}
+.center {
+	text-align:center;
+}
+.table-no-border tr td {
+	border-top: none;
+}
+.text-center tr > td {
+	text-align: center;
+}
+.text-middle tr > td {
+	vertical-align: middle;
+}
+.text-center {
+	text-align: center;
+}
+.multiSelect {
+	width: 350px; font-size: 1.1em;
+}
+.upperCase {
+	text-transform: uppercase;
+}
+#recordDetailsPopup {
+	background: #5fafaf;
+	font-size: 12px;
+}
+#sourceNav {
+	background: #666;
+	padding:15px;
+	margin:0;
+	color:#FFF;
+	list-style-type: none;
+	text-align: center;
+	font-weight:bold;
+
+}
+#sourceNav ul li {
+	display: inline;
+	padding:0 20px 0 20px; 
+		
+}
+#sourceNav ul li a{
+	color:#FFF; 
+		
+}
+#sourceNavTitle {
+	color:#FF0; 
+	text-align:left;
+}
+#sourceCode {
+	text-transform: uppercase;
+}
+.clickable {
+	cursor: pointer;
+}
+label.error {
+	color: #b94a48;
+}
+#supSearchResults td, #supSearchResults th{
+	padding : 8px 2px;
+}
+#supSearchResults .link a,#supSearchResults .date{
+	white-space:nowrap;
+	overflow:hidden;
+}	
+
